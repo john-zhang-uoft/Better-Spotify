@@ -23,3 +23,5 @@ Adding useful features to make a better Spotify web page
 
 - Compare playlists and music tastes with friends.
 - More statistics and data displayed.
+
+Authorization code is from Spotify's Account Authorization Examples found at https://github.com/spotify/web-api-auth-examples used under the Apache 2.0 License.
